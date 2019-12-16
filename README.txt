@@ -1,0 +1,1 @@
+when building the interface of this website, i didnt code the responsive aspect of this website because i believe it is just a test and therefore i was able to deliever a working website, if the screen responsiveness is require please contact me... o.oluwaleye93@gmail.com, 07038871903.
